@@ -14,9 +14,8 @@ Hi 👋, I'm Kefi Maher
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://drive.google.com/file/d/1HkulP91nAlA4-NcqSV_CaspOv3lqkH_s/view?usp=drive_link" alt="Symfony" width="40" height="40"/> </a>
+<a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="[https://drive.google.com/file/d/1HkulP91nAlA4-NcqSV_CaspOv3lqkH_s/view?usp=drive_link](https://github.com/kefimaher/kefimaher/assets/60353495/baabcdaa-dfec-4226-8ed6-8178c2b1eb0f)" alt="Symfony" width="40" height="40"/> </a>
 </p>
 
 
-  ![symfony](https://github.com/kefimaher/kefimaher/assets/60353495/baabcdaa-dfec-4226-8ed6-8178c2b1eb0f)
 
