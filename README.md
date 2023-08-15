@@ -1,4 +1,4 @@
-### Hi there 👋
+![php-1](https://github.com/kefimaher/kefimaher/assets/60353495/cb542fc5-923d-4cfb-9f2a-5822edc00779)![python-3](https://github.com/kefimaher/kefimaher/assets/60353495/dbdc33cb-7b0c-4637-8662-70efe9ff9d5a)![javascript-2](https://github.com/kefimaher/kefimaher/assets/60353495/1c17215f-240a-4ff9-9af3-424f5b393158)### Hi there 👋
 
 Hi 👋, I'm Kefi Maher
 - 🔭 I’m currently working on Automotive Testing and Validation
@@ -14,7 +14,12 @@ Hi 👋, I'm Kefi Maher
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://github.com/kefimaher/kefimaher/assets/60353495/baabcdaa-dfec-4226-8ed6-8178c2b1eb0f" alt="Symfony" width="40" height="40"/> </a>
+<a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://github.com/kefimaher/kefimaher/assets/60353495/baabcdaa-dfec-4226-8ed6-8178c2b1eb0f"  width="40" height="40"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/kefimaher/kefimaher/assets/60353495/2740f041-9c8a-4481-83b1-5f00fa9b4a67"  width="40" height="40"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/kefimaher/kefimaher/assets/60353495/9440c53f-3989-44a3-9a6a-8c02cf9b1b37"  width="40" height="40"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/kefimaher/kefimaher/assets/60353495/f94336ac-cee4-4478-87cd-5bc61085658b"  width="40" height="40"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/kefimaher/kefimaher/assets/60353495/4a4bee56-4e83-4cd8-9ba8-c8b63adbd00d"  width="40" height="40"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/kefimaher/kefimaher/assets/60353495/579a9ce5-9f7a-488f-8c40-b06f80e18a23"  width="40" height="40"/> </a>
 </p>
 
 
