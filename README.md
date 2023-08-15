@@ -19,9 +19,7 @@ Hi 👋, I'm Kefi Maher
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/kefimaher/kefimaher/assets/60353495/cb542fc5-923d-4cfb-9f2a-5822edc00779"  width="40" height="40"/> </a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/kefimaher/kefimaher/assets/60353495/4a4bee56-4e83-4cd8-9ba8-c8b63adbd00d"  width="40" height="40"/> </a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/kefimaher/kefimaher/assets/60353495/579a9ce5-9f7a-488f-8c40-b06f80e18a23"  width="40" height="40"/> </a>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/kefimaher/kefimaher/assets/60353495/dbdc33cb-7b0c-4637-8662-70efe9ff9d5a"  width="40" height="40"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/kefimaher/kefimaher/assets/60353495/ab6bb2de-54d9-4c68-97f9-f4510ba79154"  width="40" height="40"/> </a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/kefimaher/kefimaher/assets/60353495/1c17215f-240a-4ff9-9af3-424f5b393158"  width="40" height="40"/> </a>
 </p>
-
-
 
